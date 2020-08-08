@@ -11,9 +11,9 @@ In extendible hashing no additional space is wasted towards the allocations for 
 ## Usage
 Download the code and run the project using netbeans.
 
-Keys : Enter values to be inserted.
-Blocking factor : Maximum number of records in a block.
-Display : Generates tables and shows how records are stored.
-Search : To check is a value is present in database.
+Keys : Enter values to be inserted. <br />
+Blocking factor : Maximum number of records in a block. <br />
+Display : Generates tables and shows how records are stored. <br />
+Search : To check is a value is present in database. <br />
 
 
